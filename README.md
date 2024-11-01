@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @P3t3rk0
+- 👋 Hi there, I’m Peterko
 - 👀 I’m interested in computers and stuff :P
 - 🌱 I’m currently learning computer science :)
 - ⚡ Fun fact: I like trains :D
